@@ -1,0 +1,10 @@
+# Python virtual environment
+venv/
+bin/
+include/
+lib/
+lib64/
+pyenv.cfg
+pyvenv.cfg
+
+2024-02.png
